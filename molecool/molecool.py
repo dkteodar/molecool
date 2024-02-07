@@ -23,6 +23,7 @@ def canvas(with_attribution=True):
         quote += "\n\t- Adapted from Henry David Thoreau"
     return quote
 def something_new():
+    """ wyświetla string"""
     print("asdssda")
 
 
