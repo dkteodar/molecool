@@ -7,6 +7,16 @@ molecool
 
 aaa
 
+
+
+###Install instruction
+
+To install, run this command:
+```pythhon
+pip install -e .
+```
+-- WPROWADZANIE --         
+
 ### Copyright
 
 Copyright (c) 2024, Darek
@@ -16,3 +26,5 @@ Copyright (c) 2024, Darek
  
 Project based on the 
 [Computational Molecular Science Python Cookiecutter](https://github.com/molssi/cookiecutter-cms) version 1.1.
+
+

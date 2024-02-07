@@ -22,6 +22,8 @@ def canvas(with_attribution=True):
     if with_attribution:
         quote += "\n\t- Adapted from Henry David Thoreau"
     return quote
+def something_new():
+    print("asdssda")
 
 
 if __name__ == "__main__":
