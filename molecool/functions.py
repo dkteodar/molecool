@@ -9,3 +9,6 @@ def squares(x):
 
 def cubed(x):
     return x**3
+
+def new_feature():
+    pass
